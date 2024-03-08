@@ -1,5 +1,5 @@
-# PrimeiroCommit🐧👍
-🖥Estudo de TI de 2024 da escola Sesi Senai.🖱
+# <h1 align="center">🐧👎PrimeiroCommit🐧👍</h1>
+<h3 align="center">🖥Estudo de TI de 2024 da escola Sesi Senai.🖱</h3>
 
 ## 💻Comandos e funcionalidades do Git:💻
 
@@ -15,3 +15,5 @@
    <p>↣ Para adicionar algo que foi modificado ou criado, pode ser utilizado para adicionar arquivos e diretórios.</p>
 - branch
    <p>↣ Para gerenciar os branchs. Possibilita criar novos branchs, listar todos existentes e removê-los.</p>
+
+<img src=""
